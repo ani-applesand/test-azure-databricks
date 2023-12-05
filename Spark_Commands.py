@@ -1,4 +1,8 @@
 # Databricks notebook source
+#Spark Commands
+
+# COMMAND ----------
+
 # DBTITLE 1,Show()
 data = [(1,'dgchgdhcgdhsgchdsgcaljcajcjjbjgsyuakjkxn'),
       (2,'alkjxuCXKJbcuGUaljxjbKSLWMXKNbxg'),
